@@ -1,0 +1,22 @@
+{
+  "name": "my_website",
+  "version": "1.0.0",
+  "description": "Initial_website",
+  "main": "Sai_sandeep.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saisandeep104/My-website.git"
+  },
+  "author": "Sai Sandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saisandeep104/My-website/issues"
+  },
+  "homepage": "https://github.com/Saisandeep104/My-website#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
